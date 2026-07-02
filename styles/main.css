@@ -20,3 +20,15 @@ a {
     border: 1px #FFFFFF solid;
     padding: 5px;
 }
+
+#index-page {
+    text-align: center;
+}
+
+#nav-container {
+    list-style: none;
+    padding: 0;
+}
+.nav-list {
+    margin-bottom: 20px;
+}
